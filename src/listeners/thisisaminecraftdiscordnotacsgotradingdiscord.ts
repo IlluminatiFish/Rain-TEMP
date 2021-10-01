@@ -78,6 +78,7 @@ class thisIsAMinecraftModDiscordNotACSGOTradingDiscord extends BotListener {
 			"194.226.139.120",
 			"194.226.139.121",
 			"194.226.139.123",
+			"198.251.84.212",
 			"198.251.89.14"
 		]
 
